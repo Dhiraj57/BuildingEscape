@@ -1,0 +1,9 @@
+{
+	"configurations": [
+		{
+			"name": "Building_EscapeEditor Editor Win64 Development (Building_Escape)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "F:\\MiniGames\\Tutorials\\Unreal4\\BuildingEscape-master\\Building_Escape\\.vscode\\compileCommands_Building_Escape.json"
+		}
+	]
+}
